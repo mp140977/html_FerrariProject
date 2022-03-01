@@ -1,0 +1,18 @@
+
+#eins {
+    color: Black;
+    font-size:20pt;  /* Größe 20pt   */
+    text-align: center;
+    margin-left: 100px;
+}
+#zwei {
+    color: black;
+    font-size:30pt;  /* Größe 30pt   */
+}
+.bild {
+    max-width: 100%;
+    height: auto;
+}
+.row {
+    margin: 15px;
+}
